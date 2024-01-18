@@ -468,7 +468,7 @@ These are abilities that inflicts conditions onto opponents that would hinder th
 
 **duration :** Recover or 5 rounds
 
-**effect :** When invoking this ability, invoke it with another ability that calls for attack roll and damage. If your attack hits, your opponent suffers from Lasting Damage. On their turn, roll 1d6 as HP damage.
+**effect :** Make an attack against a target's GRD or RES. If your attack hits, your opponent suffers from Lasting Damage. On their turn, roll 1d6 as HP damage.
 
 **Pinned**
 
@@ -476,7 +476,7 @@ These are abilities that inflicts conditions onto opponents that would hinder th
 
 **duration :** Recover or 5 rounds
 
-**effect :** When invoking this ability, invoke it with another ability that calls for attack roll and damage. If your attack hits, your opponent suffers from Pinned. They are unable to move away from their current location.
+**effect :** Make an attack against a target's GRD or RES. If your attack hits, your opponent suffers from Pinned. They are unable to move away from their current location.
 
 **Provocation**
 
@@ -512,7 +512,7 @@ These are abilities that inflicts conditions onto opponents that would hinder th
 
 **duration :** Recover or 3 rounds
 
-**effect :** Make a melee attack roll for damage. On a hit, aside for the damage, if the attack roll beats the target RES, the target is Stunned. They only have 1 AP when their turn comes.
+**effect :** Make a ranged or melee attack roll against RES, the target is Stunned. They only have 1 AP when their turn comes.
 
 **Marked**
 
@@ -528,13 +528,15 @@ These are abilities that inflicts conditions onto opponents that would hinder th
 
 **duration :** Recover or 5 Rounds
 
-**effect :** State a target and a type of sensory (sight, smell, sound, etc), and make a melee or attack roll for damage. On a hit, aside for the damage, if the attack roll beats the target's RES, the target's chosen sensory is Disabled. Any action that relies on said sense is inflicted with a -5 penalty. Any defense that relates heavily to the sensory is reduced by 5.
+**effect :** State a target and a type of sensory (sight, smell, sound, etc), and make a melee or attack roll against the target's RES. On a hit, the target's chosen sensory is Disabled. Any action that relies on said sense is inflicted with a -5 penalty. Any defense that relates heavily to the sensory is reduced by 5.
 
 **Decrease Defense**
 
 **prerequisites :** Extraordinary Capabilities
 
 **duration :** Recover or 5 Rounds
+
+**cost :** 5 EP
 
 **effect :** State a target and one of their defenses. That defense is reduced for -3 against a damage type of your choosing.
 
@@ -543,6 +545,8 @@ These are abilities that inflicts conditions onto opponents that would hinder th
 **prerequisites :** None
 
 **duration :** Instantaneous
+
+**cost :** 3 EP (If using Extraordinary Capabilities)
 
 **effect :** Make a melee attack roll of STR (or linked Extraordinary) vs RES. On a hit, the target is moved equal to Damage 1 + the attribute score.
 
@@ -1193,4 +1197,12 @@ You can take this feature multiple times to raise the Damage rating by 1, and it
 **cost :** 2 Feature Point
 
 **effect :** You may use Instant Relocation to a location you cannot see.
+
+**Debilitating Attack**
+
+**prerequisites :** access to the intended debilitating ability
+
+**cost :** 2 Feature Point
+
+**effect :** When you are making a damaging attack, you may opt to add a debilitating ability's effect on top of the damage. You have to pick a specific debilitating ability that you can access when taking this feature. You may take this feature multiple times to add another debilitating ability's effect.
 
