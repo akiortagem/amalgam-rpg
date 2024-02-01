@@ -209,6 +209,7 @@ Abilities are contextual and specific action that the characters can do in-game.
 - Dash: A rapid movement covering double the usual distance, focusing entirely on movement for a turn. This takes 2 AP.
 - Hide: The ability to conceal oneself, potentially avoiding detection by enemies. This takes 1 AP.
 - Take Cover: Utilizing the environment to gain protection against ranged attacks or line-of-sight abilities. This takes 1 AP.
+- Disengage : Carefully focus your attention to your nearby enemies. This allows you to move freely without triggering attack of opportunity. This takes 1 AP.
 
 **Utility and Interaction Abilities**
 - Use Object: Interacting with an item in the environment or using an item from the character’s inventory. This takes 1 AP.

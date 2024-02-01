@@ -44,24 +44,31 @@ Cashal is 10ft from the Caravan
 
 ## Combat start!
 - Reizo moves to Carver Knave A for 20ft using 1 AP
-- Reizo attacks Carver Knave A with Katana Slash (2+3+6+2(Prof)+3(Dex) = 16), using 1 AP, dealing (6+3=9) damage and kills it!
+- Reizo attacks Carver Knave A with Katana Slash, (6 + 1 + 1 + 3 (DEX) + 2 (Prof) = 13 ) using 1 AP and deals (6 + 3 (DEX) + 2 (Prof) = 11) Damage and kills it!
 - Reizo moves to cover using 1 AP
-- Carver Knave B moves 15ft towards Reizo using 1 AP
-- Carver Knave B routes Reizo using 1 AP
-- Carver Knave B attacks Reizo with Dagger Stab (3 + 2 + 2 + 4 = 11), using 1 AP, but it misses!
-- Cashal moves to Carver Boltsman D for 20 ft using 1 AP
-- Cashal attacks Carver Boltsman D with Longsword Slash (3 + 2 + 5 + 4 = 14), using 1 AP, dealing (5 + 4 = 9) damage and kills it!
-- Cashal moves to cover using 1 AP
-- Carver Knave C moves towards Cashal for 15ft using 1 AP
-- Carver Knave C routes Cashal using 1 AP
-- Carver Knave C attacks Cashal with Dagger Stab (4 + 2 + 1 + 4 = 11), using 1 AP, but it misses!
-- Carver Boltsman E routes Reizo using 1 AP
-- Carver Boltsman E attacks Reizo with Sneak Attack (6 + 6 + 2 + 4 = 18), using 1 AP, dealing (6 + 4 + 4 (Cunning) = 14) damage!
-- Carver Boltsman E attacks Cashal with Sneak Attack (3 + 6 + 5 + 4 - 3 (MAP) = 15), but it misses!
-- Reizo uses Shadowstep to move to Carver Boltsman E for 15ft, using 1 AP and consuming 4 EP
-- Reizo attacks Carver Boltsman E with Katana Slash (5 + 5 + 3 + 2(Prof) + 3(Dex) = 18), using 1 AP, dealing (5 + 3 = 8) damage and kills it!
-- Reizo attacks Carver Boltsman E with Katana Slash (off-hand) (5 + 5 + 2 + 2(prof) + 3(DEX) = 17), dealing (5 + 3 = 8) damage and kills it!
-- Carver Knave B moves 15ft towards Reizo using 1 AP
-- Carver Knave B attacks Reizo with Dagger Stab (4 + 3 + 6 + 4 = 17), using 1 AP, dealing (3 + 4 = 7) damage and kills him!
-- But Reizo tries to parry the attack using Defend! Using 1 AP from his next turn (2 + 6 + 5 + 3 = 16) and he failed
-- 
+- Carver Knave B moves to Reizo for 15ft using 1 AP
+- Carver Knave B attacks Reizo with Dagger Stab, (2 + 2 + 4 + 4 (Pr.Bonus) = 12) using 1 AP and misses!
+- Carver Knave B attacks Reizo with Dagger Stab, (2 + 2 + 1 + 4 (Pr.Bonus) - 3 (MAP 1) = 6) using 1 AP and misses!
+- Cashal moves to Carver Knave B for 20ft using 1 AP
+- Cashal attacks Carver Knave B with Longsword Slash, (1 + 1 + 6 + 4(Pr.Bonus) = 12) using 1 AP and misses!
+- Cashal attacks Carver Knave B with Longsword Slash, (5 + 2 + 4 + 4(Pr.Bonus) - 3 (MAP 1) = 12) using 1 AP and misses!
+- Carver Knave C moves to Cashal for 15ft using 1 AP
+- Carver Knave C attacks Cashal with Sneak Attack, (2 + 1 + 4 + 4 (Pr.Bonus) = 11) using 1 AP and misses!
+- Carver Knave C attacks Cashal with Sneak Attack, (6 + 6 + 4 + 4 (Pr.Bonus) - 3(MAP 1) = 17) using 1 AP and misses!
+- Carver Boltsman D attacks Reizo with Crossbow Fire, (2 + 5 + 4 + 4(Pr.Bonus) = 15) using 1 AP and misses!
+- Carver Boltsman D attacks Reizo with Crossbow Fire, (1 + 2 + 4 + 4(Pr.Bonus) - 3(MAP 1) = 8) using 1 AP and misses!
+- Carver Boltsman D attacks Reizo with Crossbow Fire, (1 + 3 + 4 + 4(Pr.Bonus) - 6(MAP 2) = 6) using 1 AP and misses!
+- Carver Boltsman E attacks Cashal with Sneak Attack, (6 + 2 + 2 + 4(Pr.Bonus) = 14) using 1 AP and misses!
+- Carver Boltsman E attacks Cashal with Sneak Attack, (4 + 1 + 1 + 4(Pr.Bonus) - 3(MAP 1) = 7) using 1 AP and misses!
+- Carver Boltsman E attacks Cashal with Sneak Attack, (6 + 3 + 2 + 4(Pr.Bonus) - 3(MAP 2) = 12) using 1 AP and misses!
+- Reizo moves to Carver Boltsman D for 15ft!
+- Carver Knave B makes an attack of opportunity with Dagger Stab, (5 + 1 + 4 + 4(Pr.Bonus) = 14) using 1 AP and misses!
+- Reizo attacks Carver Boltsman D with Katana Slash, (6 + 1 + 1 + 3(DEX) + 2(Prof) = 13) Using 1 AP, dealing (6 + 3 + 2 = 11) damage and kills it!
+- Reizo moves to Carver Boltsman E for 15ft!
+- Carver Knave B moves to Reizo for 15ft!
+- Carver Knave B attacks Reizo with Dagger Stab, (5 + 2 + 3 + 4(Pr.Bonus) = 14) using 1 AP and misses!
+- Cashal Disengages using 1 AP
+- Cashal moves to Carver Boltsman E for 15ft!
+- Cashal attacks Carver Boltsman E with Longsword Slash, (5 + 1 + 2 + 4(Pr.Bonus) = 12) using 1 AP and misses!
+- Carver Knave C moves to Cashal for 15ft!
+- Carver Knave C attacks Cashal with Sneak Attack, (3 + 1 + 2)
